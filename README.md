@@ -1,2 +1,4 @@
-# pyscaner
-A fast port scanner 
+PyScan
+-------
+
+A fast python port scanner 
