@@ -5,7 +5,7 @@ banner = f"""
 {"_"*40}
 	PyScanner
 	v 1.0
-	by R3$3T
+	by TaqsBlaze
 {"_"*40}
 """
 print(banner)
@@ -70,7 +70,7 @@ def scan_ports(target, start_port, end_port):
         finally:
             sock.close()
 
-# Replace 'example.com' with the target host or IP address
+
 target_host = str(input(" * Enter taget:"))
 
 # Define the range of ports to scan (e.g., 1 to 1024)
